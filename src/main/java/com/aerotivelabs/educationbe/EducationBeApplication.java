@@ -1,13 +1,13 @@
-package com.application.lecture;
+package com.aerotivelabs.educationbe;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LectureApplication {
+public class EducationBeApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(LectureApplication.class, args);
+        SpringApplication.run(EducationBeApplication.class, args);
     }
 
 }

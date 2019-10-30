@@ -1,10 +1,10 @@
-package com.application.lecture;
+package com.aerotivelabs.educationbe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class LectureApplicationTests {
+class EducationBeApplicationTests {
 
     @Test
     void contextLoads() {
